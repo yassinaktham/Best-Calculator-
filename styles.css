@@ -1,0 +1,26 @@
+.ttt {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #13f3ef;
+}
+img{
+width: 300px;
+height: 400px;
+margin: auto;
+display: block;
+}
+
+.text {
+    background-color: rgb(187, 69, 69);
+padding: 20px;
+border-radius: 30px
+}
